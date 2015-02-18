@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM411: Public Relations"
+course_description: "This course will help prepare you to conduct public relations suitable for small start-up businesses, international companies, political campaigns, social programs, personal development, and other outreach projects."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Public Relations Components and Planning** <span
 id="2"></span> 
 *Most major undertakings start with the essential process of planning.

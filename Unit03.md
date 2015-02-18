@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM411: Public Relations"
+course_description: "This course will help prepare you to conduct public relations suitable for small start-up businesses, international companies, political campaigns, social programs, personal development, and other outreach projects."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Key Target Audiences** <span id="3"></span> 
 *Certainly the most important aspect of any outreach campaign is to
 first know your target audience.  Once you have clearly identified the

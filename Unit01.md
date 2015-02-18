@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM411: Public Relations"
+course_description: "This course will help prepare you to conduct public relations suitable for small start-up businesses, international companies, political campaigns, social programs, personal development, and other outreach projects."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Foundations of Public Relations** <span id="1"></span> 
 *To understand where the field of public relations is heading, it helps
 to know its history.  The past of public relations is still relatively

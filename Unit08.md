@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM411: Public Relations"
+course_description: "This course will help prepare you to conduct public relations suitable for small start-up businesses, international companies, political campaigns, social programs, personal development, and other outreach projects."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Ethical Issues in Public Relations** <span id="8"></span> 
 *The public relations professional is frequently the conscience of a
 company, not only by representing the organization’s interests to the

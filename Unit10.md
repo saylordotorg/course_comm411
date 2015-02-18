@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM411: Public Relations"
+course_description: "This course will help prepare you to conduct public relations suitable for small start-up businesses, international companies, political campaigns, social programs, personal development, and other outreach projects."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: Professional Development** <span id="10"></span> 
 *The public relations office can be a lonely spot, hovering between the
 realms of internal and external interests.  Fortunately, there are many

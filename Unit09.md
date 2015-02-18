@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM411: Public Relations"
+course_description: "This course will help prepare you to conduct public relations suitable for small start-up businesses, international companies, political campaigns, social programs, personal development, and other outreach projects."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Careers in Public Relations** <span id="9"></span> 
 *Well-honed public relations skills have a place in just about every
 human enterprise from international commerce to campaigns for public

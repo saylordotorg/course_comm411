@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM411: Public Relations"
+course_description: "This course will help prepare you to conduct public relations suitable for small start-up businesses, international companies, political campaigns, social programs, personal development, and other outreach projects."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Social Projects and Public Relations** <span id="6"></span> 
 *Public relations skills, tools, and tactics are not only for achieving
 business ends, but also serve to advance social programs and outreach

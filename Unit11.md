@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM411: Public Relations"
+course_description: "This course will help prepare you to conduct public relations suitable for small start-up businesses, international companies, political campaigns, social programs, personal development, and other outreach projects."
+next: ../../../
+previous: ../Unit10
+---
 **Unit 11: Final Exam** <span id="11"></span> 
 -   **Final Exam: The Saylor Foundation’s “COMM411 Final Exam”**
     Link: The Saylor Foundation’s [“COMM411 Final

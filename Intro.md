@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM411: Public Relations"
+course_description: "This course will help prepare you to conduct public relations suitable for small start-up businesses, international companies, political campaigns, social programs, personal development, and other outreach projects."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "COMM411: Public Relations"
 -----------------------------------------------
 

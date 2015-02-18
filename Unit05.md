@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM411: Public Relations"
+course_description: "This course will help prepare you to conduct public relations suitable for small start-up businesses, international companies, political campaigns, social programs, personal development, and other outreach projects."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Writing for Public Relations** <span id="5"></span> 
 *Public relations communications may take many forms from media releases
 to public speaking, counseling, training seminars, and hosting public

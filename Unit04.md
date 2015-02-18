@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM411: Public Relations"
+course_description: "This course will help prepare you to conduct public relations suitable for small start-up businesses, international companies, political campaigns, social programs, personal development, and other outreach projects."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Media Relations** <span id="4"></span> 
 *One sure need of all organizations that produce newspapers, magazines,
 television programs, radio broadcasts, and websites is material to fill

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM411: Public Relations"
+course_description: "This course will help prepare you to conduct public relations suitable for small start-up businesses, international companies, political campaigns, social programs, personal development, and other outreach projects."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Crisis Communications** <span id="7"></span> 
 *Success is a long haul, but disasters happen in an instant.  A little
 advanced preparation can help save the day when a crisis strikes, and a
